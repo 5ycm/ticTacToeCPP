@@ -55,8 +55,8 @@ void Board::perMove(){
         std::cout << "Here are the instructions:" << std::endl;
         std::cout << std::endl;
 
-        std::cout << "The first char signifies the middle (m), top (t), or bottom (b) row." << std::endl; 
-        std::cout << "The second char signifies the middle (m), left(l), or right(r), Do not worry about order of chars." << std::endl;
+        std::cout << "One char signifies the middle (m), top (t), or bottom (b) row." << std::endl; 
+        std::cout << "The other char signifies the middle (m), left(l), or right(r), DO NOT WORRY ABOUT ORDER OF CHARS." << std::endl;
         std::cout << std::endl;
 
         print_board();
