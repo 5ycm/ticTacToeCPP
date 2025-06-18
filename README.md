@@ -1,6 +1,6 @@
 To run, you must have g++, please download it if you do not have it.
 
-TThen,
+Then,
 
 $ make
 $ ./program
